@@ -1,4 +1,4 @@
-##707. Design Linked List
+## 707. Design Linked List
 
 ● 用dummyhead來寫list比較易懂
 
