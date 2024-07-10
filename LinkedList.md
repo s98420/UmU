@@ -12,4 +12,7 @@
 
 ● dummyhead超讚
 
+## 24. Swap Nodes in Pairs
+
+● NOPE
 
