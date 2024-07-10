@@ -1,4 +1,3 @@
-# 27. Remove Element
 ## 27. Remove Element
 ●  原本用兩個for迴圈，一個看有沒有要移除的元素，另一個把後面的全部往前移 -> O(n^2)
 
@@ -6,3 +5,9 @@
 
 ## 977. Squares of a Sorted Array
 ● 雙指標的變體，因為最大值必在最前或最後，所以利用最前面和最後面的兩個指標相互移動來排序
+
+## 209. Minimum Size Subarray Sum
+● 雙指標的變體，一個指標表示子集的左邊，一個表示右邊，如果和大於目標就往右拓展，反之則從左縮小
+
+## 59. Spiral Matrix II
+● NOPE
